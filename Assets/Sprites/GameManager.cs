@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
        
         ChatManager.Instance.InitChat();
         NetManager.Instance.InitSocket();
-        Debug.Log("Íõ†´Ğ¦ÎûÎûsss");
+        Debug.Log("Íõ†´Ğ¦ÎûÎûssssss");
     }
 
     // Update is called once per frame
