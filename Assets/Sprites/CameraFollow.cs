@@ -9,7 +9,7 @@ public class CameraFollow : MonoBehaviour
     Vector3 Pos;
     void Start()
     {
-        Pos = new Vector3(0,30,-40);
+        Pos = new Vector3(0,30,-39);
     }
 
     // Update is called once per frame
